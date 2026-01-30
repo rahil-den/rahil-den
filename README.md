@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Rahil Shaikh, and I built things? | Full Stack | Software Developer
+I am Rahil Shaikh, and I built things?
 ---
 
 <!--
