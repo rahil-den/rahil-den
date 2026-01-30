@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I am Rahil Shaikh, and I built things?
+I am Rahil Shaikh, and I built things? | Full Stack | Software Developer
+---
 
 <!--
 **rahil-den/rahil-den** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
