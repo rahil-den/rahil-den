@@ -1,6 +1,5 @@
 <!----------------------------------------------------------------------------
   RAHIL — GITHUB PROFILE README
-  Copy everything below the dashes into your GitHub profile README.md
 ----------------------------------------------------------------------------->
 
 <div align="center">
