@@ -33,7 +33,7 @@
 
 backend-leaning fullstack developer. i care deeply about **system design**, **clean APIs**, and building things people actually want to use.
 
-currently deep in a structured 16-week build sprint — shipping real products, learning in public.
+Currently juggling college while consistently shipping and iterating on projects.
 
 ---
 
