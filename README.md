@@ -49,7 +49,7 @@ Currently juggling college while consistently shipping and iterating on projects
 
 ---
 
-📧 Reach me → `mohammedrahilshaikh781@gmail.com`
+📧 Reach me → `shaikhkasim341@gmail.com`
 
 ---
 
