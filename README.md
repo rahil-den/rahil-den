@@ -17,7 +17,7 @@
 ║   React  ·  Vite  ·  Tailwind  ·  Supabase  ·  PostgreSQL              ║
 ║                                                                          ║
 ║   Currently crafting:                                                    ║
-║   ▸ CareerOS  — AI-powered career management platform                   ║
+║   ▸ Keel  — One tool for all the founders                                ║
 ║   ▸ Cadence   — Personal productivity & habit tracking app              ║
 ║                                                                          ║
 ║   Open to roles  ·  Remote or Onsite  ·  Available immediately         ║
