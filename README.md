@@ -1,71 +1,86 @@
+````md
 <!----------------------------------------------------------------------------
   RAHIL — GITHUB PROFILE README
 ----------------------------------------------------------------------------->
 
 <div align="center">
 
-```
+```text
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║   Rahil                              Software Developer                  ║
-║   - - - - - -                        - - - - - - - - - - - -            ║
-║ ─────────────────────────────────────────────────────────────────────   ║
+║   Rahil                               Building Software Products         ║
+║   ─────                               ──────────────────────────         ║
 ║                                                                          ║
-║   > Building products that ship. Not just code that runs.               ║
+║   > Designing, building and shipping products people enjoy using.       ║
 ║                                                                          ║
-║   Backend  ·  Node.js  ·  Python  ·  REST APIs  ·  Auth Systems        ║
-║   React  ·  Vite  ·  Tailwind  ·  Supabase  ·  PostgreSQL              ║
+║   React · Next.js · TypeScript · Tailwind CSS · Framer Motion           ║
+║   Node.js · Python · PostgreSQL · REST APIs · Supabase                  ║
 ║                                                                          ║
-║   Currently crafting:                                                    ║
-║   ▸ Keel  — One tool for all the founders                                ║
-║   ▸ Cadence   — Personal productivity & habit tracking app              ║
+║   Currently Building                                                    ║
+║   ▸ Keel  — The operating system for modern founders                    ║
+║   ▸ Silo  — A curated vault of frontend experiences                     ║
 ║                                                                          ║
-║   Open to roles  ·  Remote or Onsite  ·  Available immediately         ║
+║   Open to Product Engineering Internships & Freelance Projects          ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
-```
+````
 
 </div>
 
 ---
 
-### about
+## About
 
-backend-leaning fullstack developer. i care deeply about **system design**, **clean APIs**, and building things people actually want to use.
+Final-year IMCA student passionate about building modern software products.
 
-Currently juggling college while consistently shipping and iterating on projects.
-
----
-
-### stack
-
-| layer | tools |
-|---|---|
-| **backend** | Node.js · Python · Express · JWT · REST |
-| **frontend** | React · Vite · Tailwind CSS  |
-| **data** | Supabase · PostgreSQL · NoSQL · Firebase · MongoDB |
-| **infra** | Vercel · GitHub Actions |
-| **ai** | Claude API · Anthropic SDK ·  |
+I enjoy combining engineering, design and product thinking to create software that solves real problems. Currently focused on building SaaS products, improving my craft, and documenting the journey publicly.
 
 ---
 
-📧 Reach me → `shaikhkasim341@gmail.com`
+
+## Tech Stack
+
+| Layer        | Technologies                                                |
+| ------------ | ----------------------------------------------------------- |
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS · Framer Motion |
+| **Backend**  | Node.js · Express · Python · REST APIs · JWT                |
+| **Database** | PostgreSQL · Supabase · MongoDB · Firebase                  |
+| **DevOps**   | Git · GitHub Actions · Vercel                               |
+| **AI**       | OpenAI · Gemini · Claude APIs                               |
+
+---
+
+## Featured Project
+
+### Keel
+
+The operating system for modern founders.
+
+A unified workspace that brings together projects, clients, tasks, documentation and business operations into one place.
+
+**Tech:** Next.js · TypeScript · Tailwind CSS · Node.js · PostgreSQL · Supabase
+
+---
+
+## Reach Me
+
+📧 **Email**
+
+`shaikhkasim341@gmail.com`
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   Thanks for stopping by.                            ║
-║                                                      ║
-║   You can visit my projects above,                   ║
-║   or — if you're hiring — let's talk.                ║
-║                                                      ║
-║   I ship fast. I think clearly. I give a damn.       ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   Thanks for stopping by.                                   ║
+║                                                              ║
+║   Building products, one commit at a time.                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
+```
