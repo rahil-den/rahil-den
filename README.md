@@ -1,9 +1,8 @@
-````md
-<!----------------------------------------------------------------------------
-  RAHIL — GITHUB PROFILE README
------------------------------------------------------------------------------>
+<!-- ==========================================================================
+     RAHIL — GITHUB PROFILE README
+============================================================================ -->
 
-<div align="center">
+<p align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════╗
@@ -23,22 +22,21 @@
 ║   Open to Product Engineering Internships & Freelance Projects          ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
-````
+```
 
-</div>
+</p>
 
 ---
 
-## About
+# About
 
 Final-year IMCA student passionate about building modern software products.
 
-I enjoy combining engineering, design and product thinking to create software that solves real problems. Currently focused on building SaaS products, improving my craft, and documenting the journey publicly.
+I enjoy combining engineering, design, and product thinking to create software that solves real problems. Currently focused on building SaaS products, improving my craft, and documenting the journey publicly.
 
 ---
 
-
-## Tech Stack
+# Tech Stack
 
 | Layer        | Technologies                                                |
 | ------------ | ----------------------------------------------------------- |
@@ -50,19 +48,19 @@ I enjoy combining engineering, design and product thinking to create software th
 
 ---
 
-## Featured Project
+# Featured Project
 
-### Keel
+## Keel
 
-The operating system for modern founders.
+**The operating system for modern founders.**
 
-A unified workspace that brings together projects, clients, tasks, documentation and business operations into one place.
+A unified workspace that brings together projects, clients, tasks, documentation, and business operations into one place.
 
 **Tech:** Next.js · TypeScript · Tailwind CSS · Node.js · PostgreSQL · Supabase
 
 ---
 
-## Reach Me
+# Reach Me
 
 📧 **Email**
 
@@ -70,7 +68,7 @@ A unified workspace that brings together projects, clients, tasks, documentation
 
 ---
 
-<div align="center">
+<p align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
@@ -82,5 +80,4 @@ A unified workspace that brings together projects, clients, tasks, documentation
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-```
+</p>
