@@ -16,7 +16,6 @@
 ║   Node.js · Python · PostgreSQL · REST APIs · Supabase                  ║
 ║                                                                          ║
 ║   Currently Building                                                    ║
-║   ▸ Keel  — The operating system for modern founders                    ║
 ║   ▸ Silo  — A curated vault of frontend experiences                     ║
 ║                                                                          ║
 ║   Open to Product Engineering Internships & Freelance Projects          ║
@@ -48,15 +47,15 @@ I enjoy combining engineering, design, and product thinking to create software t
 
 ---
 
-# Featured Project
+# Featured Project - Working on it
 
-## Keel
+## Silo
 
-**The operating system for modern founders.**
+**A curated vault of frontend experiences.**
 
-A unified workspace that brings together projects, clients, tasks, documentation, and business operations into one place.
+A unified workspace that brings together frontend experience at one place.
 
-**Tech:** Next.js · TypeScript · Tailwind CSS · Node.js · PostgreSQL · Supabase
+**Tech:** Next.js · TypeScript · Tailwind CSS · Motion · GSAP
 
 ---
 
@@ -64,7 +63,7 @@ A unified workspace that brings together projects, clients, tasks, documentation
 
 📧 **Email**
 
-`shaikhkasim341@gmail.com`
+`rahilshaikh.dev@gmail.com`
 
 ---
 
